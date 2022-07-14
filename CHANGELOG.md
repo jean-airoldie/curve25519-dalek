@@ -3,6 +3,13 @@
 Entries are listed in reverse chronological order per undeprecated
 major series.
 
+## 4.x series
+
+### 4.0.0
+
+* Upgrade rand_core to 0.6.3
+* Upgrade digest to 0.10
+
 ## 3.x series
 
 ### 3.2.0
