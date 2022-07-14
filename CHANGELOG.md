@@ -8,7 +8,9 @@ major series.
 ### 4.0.0
 
 * Upgrade rand_core to 0.6.3
+* Upgrade rand to 0.8
 * Upgrade digest to 0.10
+* Upgrade zeroize to 1.5
 
 ## 3.x series
 
